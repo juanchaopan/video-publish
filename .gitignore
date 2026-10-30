@@ -1,0 +1,13 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 运行产物：发布记录、截图里有账号信息，登录文件绝不能提交
+published.json
+publish-shots/
+cookies/
+*.cookie.json
+storage_state*.json
+
+.DS_Store
+Thumbs.db

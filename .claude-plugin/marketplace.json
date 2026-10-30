@@ -1,0 +1,15 @@
+{
+  "name": "video-publish",
+  "description": "一个技能把视频定时发到小红书、B 站、YouTube、TikTok，带封面和内容声明。",
+  "owner": {
+    "name": "juanchaopan",
+    "email": "p8499@126.com"
+  },
+  "plugins": [
+    {
+      "name": "video-publish",
+      "source": "./",
+      "description": "把做好的视频发到小红书、B 站、YouTube、TikTok：读发布文案，上传视频和自定义封面，打原创和 AI 生成内容声明，由平台定时发布。"
+    }
+  ]
+}
